@@ -1,0 +1,8 @@
+.venv
+fastapi_venv
+.idea
+__pycache__
+*.pyc
+.env
+screenshorts_fa
+README.md
